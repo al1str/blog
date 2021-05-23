@@ -1,12 +1,12 @@
-title: "Alistair's Awesome Site"
-author: GitHub User
+title: "al1str's First GitHub Pages Site"
+author: Al1str
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   This awesome site was created by al1str on GitHub using the GutHub Pages learning lab.
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+github_username:  al1str # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
